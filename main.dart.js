@@ -66450,7 +66450,7 @@ em(a){return this.bt(a,null)},
 ao(a){return this.a.a1e()},
 $icd:1}
 A.Dc.prototype={
-N(a){var s=null,r=A.aea("Demucs App http://116.87.192.72:9002/process_audio",s,s,s,s,s,s)
+N(a){var s=null,r=A.aea("Demucs App https://stems-api.tarun.cloud/process_audio",s,s,s,s,s,s)
 return new A.v8(new A.wt(new A.t1(r,new A.Ng(s,s,1/0,56),s),A.SM(new A.v3(s),s,s),s),s)}}
 A.v3.prototype={
 ar(){return new A.yH(A.a([],t.s),A.apq(),B.j)}}
@@ -66479,7 +66479,7 @@ o=J.bt(p)
 n=o.gal(p).c
 n.toString
 m=o.gal(p).b
-l=A.asE("POST",A.l9("http://116.87.192.72:9002/process_audio"))
+l=A.asE("POST",A.l9("https://stems-api.tarun.cloud/process_audio"))
 l.x.l(0,"num_stems",B.f.j(q.d))
 p=A.ama(new A.kc(A.aj0(n,t.Cm)))
 o=t.N
